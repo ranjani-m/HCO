@@ -3,12 +3,12 @@ This repository contains resources for the classification and investigation of t
 
 If you use these resources, please cite the following:
 
-HMM (A,B1-B9,C,cNOR,qNOR,bNOR,nNOR,gNOR,eNOR,sNOR,NOD) first published in -
+HMMs (A,B1-B9,C,cNOR,qNOR,bNOR,nNOR,gNOR,eNOR,sNOR,NOD) first published in -
 
 Evolution of quinol oxidation within the heme-copper oxidoreductase superfamily
 BBA 2022 doi:https://doi.org/10.1016/j.bbabio.2022.148907
 
-N2O reductase HMM first published in -
+N2O reductase HMM published within -
 
 Diversity and evolution of nitric oxide reduction in bacteria and archaea 
 Ranjani Murali, Laura A. Pace, Robert A. Sanford, Lewis M. Ward, Mackenzie Lynes, Roland Hatzenpichler, Usha F. Lingappa, Woodward W. Fischer, Robert B. Gennis, James Hemp
